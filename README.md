@@ -10,14 +10,14 @@ mkdir new_project_example
 2. change to new folder
 ```
 cd new_project_example
-111
+```
 3. initialize new repository
 ```
 git init --bare
 ```
 
 ### Start a new project on Developer(your PC)
-Below are stpes to start a new git repository.
+Below are stpes to start a new git repository.  
 . Create a directory for your new_project
 ```
 mkdir new_project_example
@@ -49,8 +49,8 @@ nothing to commit, working tree clean
 ```
 
 ### Connect it ot GitServer/GitHub
-ex: Push your new_project_example to GitHub
-. Goto to [GitHub](https://github.com)
+ex: Push your new_project_example to GitHub  
+. Goto to [GitHub](https://github.com)  
 . Config your git config
 ```
 git config --global user.name "your name"
