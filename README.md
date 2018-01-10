@@ -13,7 +13,7 @@ cd new_project_example
 ```
 3. initialize new repository
 ```
-git init --bare
+git init --bare --shared=true
 ```
 
 ### Start a new project on Developer(your PC)
